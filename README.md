@@ -6,6 +6,10 @@ Change detection (CD) methods work on the basis of co-registered multi-temporal 
 
 <img width="2830" alt="Graphical abstract" src="https://user-images.githubusercontent.com/20106991/189487580-eb100662-69e5-4fbb-a152-58cffd9b47ab.png">
 
+## Results
+![image](https://user-images.githubusercontent.com/20106991/189487806-1bafd89b-077c-4b7f-8189-4146f537809e.png)
+
+
 ## Datasets
 The datastes have been uploaded onto Baidu Netdisk, which are available at [MRCDD](https://pan.baidu.com/s/1g0KyuHQZ7FQzVDSuUMKPXQ)  Password：cnx8
 
